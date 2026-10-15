@@ -373,6 +373,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Godot MCP](https://github.com/Coding-Solo/godot-mcp)** - MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - **[Google Ads](https://github.com/gomarble-ai/google-ads-mcp-server)** - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
 - **[Google Admin MCP](https://github.com/securityfortech/google-admin-mcp)** – A Model Context Protocol (MCP) server enabling interaction with Google Admin APIs.
+- **[Google Hotels MCP](https://github.com/huynhtanan/google-hotels-mcp)** - Live Google Hotels and Google Vacation Rentals search with per-OTA rates (Booking.com, Expedia, Agoda, Vrbo, Airbnb) and a 3-month daily price calendar for any property.
 - **[Google Keep](https://github.com/feuerdev/keep-mcp)** - Read, create, update and delete Google Keep notes.
 - **[Google News](https://github.com/ChanMeng666/server-google-news)** - Google News search capabilities with automatic topic categorization and multi-language support via SerpAPI integration.
 - **[Google PSE/CSE](https://github.com/rendyfebry/google-pse-mcp)** - A Model Context Protocol (MCP) server providing access to Google Programmable Search Engine (PSE) and Custom Search Engine (CSE).
